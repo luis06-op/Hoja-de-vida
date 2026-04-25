@@ -17,6 +17,7 @@ Página web profesional de hoja de vida desarrollada con HTML y CSS.
 |---------|-------------|
 | `index.html` | Estructura principal de la página |
 | `estilos.css` | Estilos visuales |
+| `imagenes` | Estilos visuales |
 
 ##  Autor
 
